@@ -21,36 +21,35 @@ This repository contains the official implementation of **[VGCN-IRisk]**, a **hy
 *   **Target Application:** Virus-host interaction studies, emerging virus risk prediction, host range analysis, viromics.
 
 ## 📦 Repository Structure
-
-├── data
-│   ├── data_2025_03_19_new_hamming
-│   ├── data_2025_07_22
-│   └── data_VAE
-├── error_bar.py
-├── main_VAE.py
-├── model
-│   ├── dataset.py
-│   ├── function.py
-│   ├── network.py
-│   ├── network_VAE.py
-│   ├── network_VAE_decoderconc.py
-│   ├── network_class.py
-│   ├── network_class_ori.py
-│   ├── trainer.py
-│   ├── trainer_5fold.py
-│   └── trainer_VAE.py
-├── predict_sas.py
-├── requirements
-├── res_VAE
-├── sas_predict_results
-│   ├── likely.txt
-│   ├── observed.txt
-│   ├── receptor.txt
-│   └── unlikely.txt
-└── utils
-    ├── VGCN.pdf
-    ├── VGCN.svg
-    └── config.py
+├── data/ 
+│ ├── data_2025_03_19_new_hamming/  
+│ ├── data_2025_07_22/ 
+│ └── data_VAE/  
+├── error_bar.py  
+├── main_VAE.py 
+├── model/ 
+│ ├── dataset.py  
+│ ├── function.py  
+│ ├── network.py  
+│ ├── network_VAE.py 
+│ ├── network_VAE_decoderconc.py  
+│ ├── network_class.py 
+│ ├── network_class_ori.py 
+│ ├── trainer.py  
+│ ├── trainer_5fold.py  
+│ └── trainer_VAE.py  
+├── predict_sas.py 
+├── requirements/ 
+├── res_VAE/  
+├── sas_predict_results/ 
+│ ├── likely.txt  
+│ ├── observed.txt  
+│ ├── receptor.txt 
+│ └── unlikely.txt  
+└── utils/ 
+├── VGCN.pdf  
+├── VGCN.svg 
+└── config.py  
 
 ## ⚙️ Installation & Setup
 
