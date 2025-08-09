@@ -51,7 +51,7 @@ This repository contains the official implementation of **[VGCN-IRisk]**, a **hy
 ├── VGCN.pdf 
 ├── VGCN.svg 
 └── config.py  
-
+```
 ## ⚙️ Installation & Setup
 
 1.  **Clone the repository:**
