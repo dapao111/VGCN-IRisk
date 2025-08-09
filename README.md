@@ -21,6 +21,7 @@ This repository contains the official implementation of **[VGCN-IRisk]**, a **hy
 *   **Target Application:** Virus-host interaction studies, emerging virus risk prediction, host range analysis, viromics.
 
 ## 📦 Repository Structure
+```tree
 ├── data/
 │ ├── data_2025_03_19_new_hamming/ 
 │ ├── data_2025_07_22/ 
