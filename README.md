@@ -5,7 +5,8 @@
 [![img]((https://github.com/dapao111/virus_transmission/blob/master/utils/VGCN.pdf))]
 [![Framework](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org/)
 [![Framework](https://img.shields.io/badge/Framework-PyTorch%20%2F%20TensorFlow-red)]
-![VGCN-IRisk]([utils/VGCN.pdf]("模型架构图")
+<img width="2018" height="1114" alt="image" src="https://github.com/user-attachments/assets/2731e9be-13c7-4b0c-a22a-35021d5757d5" />
+
 
 
 ## 🧬 Overview
