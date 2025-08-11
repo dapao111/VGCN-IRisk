@@ -56,7 +56,7 @@ This repository contains the official implementation of **[VGCN-IRisk]**, a **hy
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/your_username/your_repo_name.git](https://github.com/dapao111/virus_transmission.git)
+    git clone https://github.com/dapao111/virus_transmission.git
     cd virus_transmission
     ```
 
